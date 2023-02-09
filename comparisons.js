@@ -100,7 +100,7 @@ var age = 1;
 
 // Determine if the dog loves to play and is a puppy
  if(lovesToPlay && age<2) {
-    console.log("This dog loves to play and is a puppy.");
+    console.log("This puppy loves to play");
  } else if (lovesToPlay && age>2) {
     console.log("This dog loves to play.")
  }

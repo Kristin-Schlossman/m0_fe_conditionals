@@ -2,6 +2,7 @@
 
 1. How confident do you feel in your understanding and fluency with the comparison operators?
     I feel confident. They're pretty straightforward. 
+    
 1. How confident do you feel in your understanding and fluency with the logical operators?
     One of the stumped challenges I tried involved an if statement and ||. I will have to look this over again, and do some more research. Intellectually I understand but translating that into syntax is still difficult for me. Not confident. 
 
